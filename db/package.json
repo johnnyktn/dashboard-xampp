@@ -1,0 +1,28 @@
+{
+  "name": "vasttrafik",
+  "version": "1.0.0",
+  "description": "This is a Javascript-based mimic of the monitors located at the bus and tram stops in Gothenburg.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kisv701/vasttrafik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kisv701/vasttrafik/issues"
+  },
+  "homepage": "https://github.com/kisv701/vasttrafik#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-php": "0.0.1",
+    "php": "0.0.1",
+    "php-express": "0.0.3"
+  }
+}
